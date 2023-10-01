@@ -17,7 +17,7 @@ Este script de python tiene la función de enviar una petición de mensaje a una
 
 > Linux
 > 
-> ```git clone ```
+> ```git clone https://github.com/KaltHack/HookSend```
 > ```cd HookSend```
 > ```python3 -m pip install -r requirements.txt```
 > ```python3 hooksend.py```
